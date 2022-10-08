@@ -80,3 +80,13 @@ ul.slider li:target {
     font-size: 20px;
     border-radius: 100%;
 }
+
+p {
+    font-family: var(--letra-cuerpo);
+    font-size: 12px;
+}
+
+li {
+    font-family: var(--letra-cuerpo);
+    font-size: 12px;
+}
